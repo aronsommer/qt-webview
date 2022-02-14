@@ -1,0 +1,1 @@
+/Applications/Qt/6.2.3/macos/bin/macdeployqt /Users/aronsommer/Documents/Qt-Projects/minimal/BUILD/minimal.app
